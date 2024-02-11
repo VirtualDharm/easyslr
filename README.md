@@ -1,3 +1,11 @@
+right now it looks like this:
+![alt text](image.png)
+![alt text](image-1.png)
+
+but it should look like this:
+![alt text](image-2.png)
+
+rest below description needs to be edited.
 # Create T3 App
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
