@@ -1,11 +1,11 @@
 import React from 'react';
 
 const TaskTable: React.FC = () => {
-  // Your task table logic here
+  // Fetch and display task data in a table
 
   return (
     <div className="bg-white shadow rounded-lg p-4">
-      {/* Render task table */}
+      {/* Task table */}
     </div>
   );
 };

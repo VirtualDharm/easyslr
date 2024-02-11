@@ -1,11 +1,11 @@
 import React from 'react';
 
 const TaskForm: React.FC = () => {
-  // Your form logic here
+  // Implement task creation form
 
   return (
     <form className="bg-white shadow rounded-lg p-4">
-      {/* Form fields for task creation */}
+      {/* Task creation form fields */}
     </form>
   );
 };
